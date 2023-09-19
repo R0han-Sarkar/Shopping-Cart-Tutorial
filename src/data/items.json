@@ -1,0 +1,27 @@
+
+[
+  {
+    "id": 1,
+    "name": "Book",
+    "price": 20.56,
+    "imageUrl": "https://foodtank.com/wp-content/uploads/2021/07/alfons-morales-YLSwjSy7stw-unsplash.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Laptop",
+    "price": 90000,
+    "imageUrl": "https://imgeng.jagran.com/images/2023/mar/best%20laptops1679305053832.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Banana",
+    "price": 50.99,
+    "imageUrl": "https://outputs.kalgudi.com/data/p_images/1641361668475.jpeg"
+  },
+  {
+    "id": 4,
+    "name": "Car",
+    "price": 13500,
+    "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/2024-lamborghini-revuelto-127-641a1d518802b.jpg?crop=0.769xw:0.770xh;0.104xw,0.106xh&resize=1200:*"
+  }
+]
